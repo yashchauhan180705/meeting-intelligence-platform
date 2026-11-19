@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Node.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Audio storage
+audio_files/
+test_audio_tmp/
+
+# Database
+*.db
+
+# Test / coverage
+htmlcov/
+.coverage
+coverage/
+.pytest_cache/
+
+# Logs
+*.log
+
+# Specify
+.specify/scripts/
